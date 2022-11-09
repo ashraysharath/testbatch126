@@ -2,3 +2,5 @@
 2.Hi
 3.Bonjour
 4.Namaskara
+5.Namaskaramm
+6.Vanakam
